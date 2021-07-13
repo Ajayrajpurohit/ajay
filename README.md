@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on building rich text-editor in Angular
+- 🌱 I’m currently learning Java and NodeJS/DenoJS
+- 💬 Ask me about Angular/TypeScript, JS and pretty much anything on Web
+- 📫 How to reach me: LinkedIn/ajayrajpurohit
+
 <!--
 **Ajayrajpurohit/ajayrajpurohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
