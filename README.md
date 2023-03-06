@@ -16,7 +16,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Freelancing Projects.
 - ⚡ In my free time I solve play Badminton or read a old book.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajayrajpurohit)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ajayrajpurohit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajayrajpurohit)
 
 ---
 
